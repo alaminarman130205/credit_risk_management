@@ -1,0 +1,26 @@
+Variable Name	Description
+time_since_recent_payment	Time Since recent Payment made
+num_times_delinquent	Number of times delinquent
+num_times_30p_dpd	Number of times 30+ dpd
+num_std	Number of standard Payments
+recent_level_of_deliq	Recent level of delinquency
+PL_enq	Personal Loan enquiries
+time_since_recent_enq	Time since recent enquiry
+MARITALSTATUS	Marital Status
+EDUCATION	Education level
+AGE	Age
+GENDER	Gender
+NETMONTHLYINCOME	Net Monthly Income
+Time_With_Curr_Empr	Time with current Employer
+pct_of_active_TLs_ever	Percent active accounts ever
+pct_currentBal_all_TL	Percent current balance of all accounts
+CC_Flag	Credit card Flag
+PL_Flag	Personal Loan Flag
+HL_Flag	Housing Loan Flag
+GL_Flag	Gold Loan Flag
+last_prod_enq2	Lates product enquired for
+first_prod_enq2	First productd enquired for
+Credit_Score	Applicant's credit score
+Approved_Flag	Priority levels (Target col)
+
+
